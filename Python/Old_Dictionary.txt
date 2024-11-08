@@ -1,0 +1,10 @@
+apple: a round fruit with red or green skin and white flesh
+banana: a long curved fruit with yellow skin
+carrot: a long, orange root vegetable
+dog: a domesticated mammal often kept as a pet or working animal
+elephant: a large herbivorous mammal with a long trunk and tusks
+frog: a small amphibian that typically has smooth, moist skin and jumps
+guitar: a musical instrument with strings that is played by plucking or strumming
+house: a building for human habitation
+internet: a global computer network providing information and communication
+jungle: a dense, tangled forest typically found in tropical regions

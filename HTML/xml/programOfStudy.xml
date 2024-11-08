@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- This file represents a student's program of study -->
+<programOfStudy>
+    <semester name="Fall 2008">
+        <class type="General Education" goal="8">
+            <courseCode>PHIL 101</courseCode>
+        </class>
+        <class type="General Education" goal="11">
+            <courseCode>ECON 201</courseCode>
+        </class>
+        <class type="Core">
+            <courseCode>MGT 217</courseCode>
+        </class>
+        <class type="Major">
+            <courseCode>CIS 120</courseCode>
+        </class>
+        <class type="Major">
+            <courseCode>CIS 403</courseCode>
+        </class>
+    </semester>
+    <semester name="Spring 2009">
+        <class type="Core">
+            <courseCode>MGT 261</courseCode>
+        </class>
+        <class type="Core">
+            <courseCode>MKTG 325</courseCode>
+        </class>
+        <class type="Major">
+            <courseCode>CIS 220</courseCode>
+        </class>
+        <class type="Major">
+            <courseCode>CIS 407</courseCode>
+        </class>
+        <class type="Major">
+            <courseCode>CIS 490</courseCode>
+        </class>
+    </semester>
+</programOfStudy>

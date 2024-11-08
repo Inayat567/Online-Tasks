@@ -1,0 +1,4 @@
+fruit: apple
+vegetable: carrot
+animal: dog
+amphibian: frog

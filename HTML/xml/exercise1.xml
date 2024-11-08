@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<exercises number="1">
+    <date>2024-05-19</date>
+    <item>
+    <!-- here is first text -->
+        <description>Hey! Denail how are you? I hope you are fine and doing well.</description>
+    </item>
+    <item>
+    <!-- and here is the second text -->
+        <description>Hello! Yeah, I am fine thank you.</description>
+    </item>
+</exercises>

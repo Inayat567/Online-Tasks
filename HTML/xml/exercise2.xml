@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <name>John Doe</name>
+    <occupation>Software Engineer</occupation>
+    <address>
+        <street>1234 Elm Street</street>
+        <city>Springfield</city>
+        <state>IL</state>
+        <zipcode>62704</zipcode>
+    </address>
+    <hobbies>
+        <hobby>Reading</hobby>
+        <hobby>Cycling</hobby>
+        <hobby>Photography</hobby>
+    </hobbies>
+</person>
